@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <title> Landing Page </title>
+  </head>
+  <body>
+    
+  <script type="text/javascript">
+var password = "14478";
+var x = prompt("Enter quiz-code "," ");
+if (x.toLowerCase() == password) {
+ alert("You will be redirected shortly :) ");
+ window.location = "quiz.html";
+}
+else {
+ alert(" No quiz is available :(" );
+}
+</script>
+
+  </body>
