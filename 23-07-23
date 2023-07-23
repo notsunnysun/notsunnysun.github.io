@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> The 23rd of July </title>
+    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    
+</head>
+<body>
+    <h1> My plans over the summer</h1>
+    <p> So looks like I lied. I doubt I can keep up with one post a day because it's the summer, you know? So I think a 3 times a week kinda gig would work for me. I'm really enjoying my unproductive day in.</p>
+    <p text-color: purple; > Sunny :D </p>
+</body>
+</html>
